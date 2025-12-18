@@ -6,11 +6,23 @@
 
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://huynd653-blog.vercel.app/">Huy</a></b>
-        </samp>
-</h3>
+<h2 align="center">
+  <samp>
+    👋 Hey there, I'm 
+    <b>
+      <a href="https://huynd653-blog.vercel.app/" target="_blank">
+        Huy
+      </a>
+    </b>
+  </samp>
+</h2>
+
+<p align="center">
+  <samp>
+    <em>Angular-focused Web Developer | Building modern web applications</em>
+  </samp>
+</p>
+
 
 
 <p align="center"> 

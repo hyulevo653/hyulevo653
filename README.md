@@ -17,13 +17,6 @@
   </samp>
 </h2>
 
-<p align="center">
-  <samp>
-    <em>Angular-focused Web Developer | Building modern web applications</em>
-  </samp>
-</p>
-
-
 
 <p align="center"> 
   <samp>
@@ -75,8 +68,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyulevo653&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyulevo653&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+      <a href="https://github.com/hyulevo653"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hyulevo653&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/hyulevo653"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hyulevo653&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
 </div>
 
 <br/>
